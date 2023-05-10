@@ -1,0 +1,31 @@
+/* Selector global para el html */
+*{
+
+}
+
+/* Selectores de clase */
+.Segundo {
+    color:green;
+    background: gray;
+}
+
+.grande {
+    font-size: 35px;
+}
+
+/* Selector de IDs */
+#unico{
+    color:violet;
+}
+
+div{
+    background-color: rgb(165, 165, 229);
+}
+
+h2{
+    color:rebeccapurple;
+}
+
+#parrafo{
+    color:red
+}
